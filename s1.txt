@@ -1,2 +1,2 @@
-addfile s1
-
+adding newfile s1 
+main
